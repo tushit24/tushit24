@@ -92,6 +92,11 @@
 
 ### 🌐 Let's Connect!
 
-* **LinkedIn**: [https://www.linkedin.com/in/tushit-tiwari-97431928a/] (e.g., `https://www.linkedin.com/in/tushit-tiwari-your-profile-id/`)
+* **LinkedIn**: <p>
+  <a href="https://www.linkedin.com/in/tushit-tiwari-97431928a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</p>
 * **Email**: rishitiwariofficial@gmail.com
 * Looking for new opportunities to learn and grow!
