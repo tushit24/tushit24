@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!👋,Competitive+Programmer,MERN+Developer,AI/ML+Engineer&center=true&size=30&duration=2000&width=450&height=50&font=Segoe%20UI%20Emoji" alt="Typing effect headline" />
-</p>
-
+<h1>Hi there! I'm Tushit Tiwari 👋</h1>
 <p>
   A highly motivated B.Tech. Computer Science student with a strong academic record (8.0 GPA) and practical experience in research, design, and SEO optimization. Proficient in programming languages, design tools, and skilled in creating user-friendly interfaces and compelling visual content.
 </p>
