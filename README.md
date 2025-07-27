@@ -12,11 +12,11 @@
 
 ### 🙋‍♂️ About Me:
 
-* 🎓 I'm a B.Tech. [cite_start]Computer Science student at Vellore Institute of Technology (VIT), India. [cite: 4, 5]
-* [cite_start]💡 I'm interested in Deep Learning, Computer Architecture, and UI/UX Design. [cite: 6, 11]
+* 🎓 I'm a B.Tech.Computer Science student at Vellore Institute of Technology (VIT), India. 
+* 💡 I'm interested in Deep Learning, Computer Architecture, and UI/UX Design. 
 * 🚀 Currently exploring advanced AI/ML techniques and modern web frameworks.
 * 🤝 Looking to collaborate on exciting projects related to AI, Web Development, and Design.
-* [cite_start]📫 How to reach me: rishitiwariofficial@gmail.com [cite: 2]
+* 📫 How to reach me: rishitiwariofficial@gmail.com
 
 ---
 
@@ -45,31 +45,31 @@
 
 *(Remember to create and populate these individual repositories with your code and detailed READMEs! The links will work once you do.)*
 
-* [cite_start]**[Recipe Finder Web App](https://recipe-finder-six-murex.vercel.app/)** [cite: 18]
-    * [cite_start]Built a responsive recipe search app using ReactJS, Redux, and Gemini API with localStorage support. [cite: 18]
-* [cite_start]**[Visual Narrative Synthesis with Enhanced CNN Architecture and Attention Mechanism](https://github.com/tushit24/visual-narrative-synthesis)** [cite: 17]
-    * [cite_start]A deep learning project exploring visual narrative synthesis using enhanced CNN architecture and attention mechanisms. [cite: 17]
+* **[Recipe Finder Web App](https://recipe-finder-six-murex.vercel.app/)** 
+    * [cite_start]Built a responsive recipe search app using ReactJS, Redux, and Gemini API with localStorage support. 
+* **[Visual Narrative Synthesis with Enhanced CNN Architecture and Attention Mechanism](https://github.com/tushit24/visual-narrative-synthesis)** [cite: 17]
+    * A deep learning project exploring visual narrative synthesis using enhanced CNN architecture and attention mechanisms. 
 * [cite_start]**[E-Summit25 Website Design & Development](https://www.ecellvitbhopal.in/esummit2025)** [cite: 15]
-    * [cite_start]Played a key role in designing the E-Summit25 website, ensuring a seamless user experience and modern aesthetics. [cite: 15]
-* [cite_start]**[The Geostrata Research & Design Contributions](https://docs.google.com/document/d/1Hx_r-wy_uvmYzOjN6buPhu9TLsQgyYdEwe2tiEqn4Cg/edit?tab=t.0)** [cite: 8]
-    * [cite_start]Conducted research on global international relations, contributing to articles and content development. [cite: 8]
-    * [cite_start]Designed content related to international relations and geopolitical issues. [cite: 8]
-    * [cite_start]Spearheaded the development and implementation of an SEO strategy for The Geostrata’s website. [cite: 9]
+    * [cite_start]Played a key role in designing the E-Summit25 website, ensuring a seamless user experience and modern aesthetics. 
+* **[The Geostrata Research & Design Contributions](https://docs.google.com/document/d/1Hx_r-wy_uvmYzOjN6buPhu9TLsQgyYdEwe2tiEqn4Cg/edit?tab=t.0)** 
+    * Conducted research on global international relations, contributing to articles and content development. 
+    * Designed content related to international relations and geopolitical issues. 
+    * Spearheaded the development and implementation of an SEO strategy for The Geostrata’s website. 
 
 ---
 
 ### 🏆 Honors & Certifications
 
-* [cite_start]**Letter of Recommendation**, Defense Minister of India - for top 3% academic performance nationally. [cite: 24]
-* **Wipro Earthian Award** | [cite_start]Biodiversity and Sustainability - Recognized for innovative contributions towards biodiversity and sustainability efforts. [cite: 25]
-* [cite_start]**Industrial IoT Markets and Security** from University of Colorado issued by Coursera. [cite: 21]
-* [cite_start]**Deep Learning** - IIT Ropar issued by NPTEL. [cite: 22]
-* * [cite_start]**MERN Full Stack Certification** - issued by ETHNUS. [cite: 22]
+* **Letter of Recommendation**, Defense Minister of India - for top 3% academic performance nationally. 
+* **Wipro Earthian Award** Biodiversity and Sustainability - Recognized for innovative contributions towards biodiversity and sustainability efforts. 
+* **Industrial IoT Markets and Security** from University of Colorado issued by Coursera. 
+* **Deep Learning** - IIT Ropar issued by NPTEL. 
+* * MERN Full Stack Certification** - issued by ETHNUS. 
 
 ---
 
 ### 🌐 Let's Connect!
 
-* [cite_start]**LinkedIn**: [https://www.linkedin.com/in/tushit-tiwari-97431928a/] (e.g., `https://www.linkedin.com/in/tushit-tiwari-your-profile-id/`) [cite: 2]
-* [cite_start]**Email**: rishitiwariofficial@gmail.com [cite: 2]
+* **LinkedIn**: [https://www.linkedin.com/in/tushit-tiwari-97431928a/] (e.g., `https://www.linkedin.com/in/tushit-tiwari-your-profile-id/`)
+* **Email**: rishitiwariofficial@gmail.com 
 * Looking for new opportunities to learn and grow!
