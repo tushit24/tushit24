@@ -71,9 +71,9 @@
 ### 💡 Key Insight
 
 <div style="background-color: #282a36; padding: 15px; border-radius: 8px; margin: 10px 0;">
-  <h1 style="color: #F8F8F2; font-style: italic; font-size: 1.1em; text-align: left; margin: 0;">
-    "Everything is theoretically until it is done."
-  </h1>
+  <h2 style="color: #F8F8F2; font-style: italic; font-size: 1.1em; text-align: left; margin: 0;">
+    Everything is theoretically until it is done
+  </h2>
 </div>
 
 ---
