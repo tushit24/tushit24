@@ -5,7 +5,7 @@
 <h1 align="center">Hi there! I'm Tushit Tiwari 👋</h1>
 
 <p align="center">
-  A highly motivated B.Tech. Computer Science student with a strong academic record (8.0 GPA) and practical experience in research, design, and SEO optimization. Proficient in programming languages, design tools, and skilled in creating user-friendly interfaces and compelling visual content.
+  A highly motivated B.Tech. Computer Science student with a strong academic record and practical experience in research, design, and SEO optimization. Proficient in programming languages, design tools, and skilled in creating user-friendly interfaces and compelling visual content.
 </p>
 
 ---
