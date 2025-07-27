@@ -84,6 +84,7 @@
 * **Wipro Earthian Award** | Biodiversity and Sustainability - Recognized for innovative contributions towards biodiversity and sustainability efforts through research and project initiatives.
 * **Industrial IoT Markets and Security** from University of Colorado issued by Coursera.
 * **Deep Learning** - IIT Ropar issued by NPTEL.
+* **MERN Full Stack Certification** - issued by ETHNUS.
 
 ---
 
