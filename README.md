@@ -5,7 +5,8 @@
 <h1 align="center">Hi there! I'm Tushit Tiwari 👋</h1>
 
 <p align="center">
-  A highly motivated B.Tech. [cite_start]Computer Science student with a strong academic record (8.0 GPA) and practical experience in research, design, and SEO optimization. [cite: 5, 8, 9, 11] [cite_start]Proficient in programming languages, design tools, and skilled in creating user-friendly interfaces and compelling visual content. [cite: 11, 27]
+  A highly motivated B.Tech. [cite_start]Computer Science student with a strong academic record (8.0 GPA) and practical experience in research, design, and SEO optimization. 
+  Proficient in programming languages, design tools, and skilled in creating user-friendly interfaces and compelling visual content. 
 </p>
 
 ---
@@ -22,9 +23,9 @@
 
 ### 🛠️ Tech Stack:
 
-* [cite_start]**Programming Languages:** Java, C, C++, Python, HTML5, MySQL [cite: 27]
-* [cite_start]**Tools & Frameworks:** Canva, Figma, Illustrations [cite: 27]
-* [cite_start]**Operating Systems:** macOS, Windows [cite: 27]
+* ]**Programming Languages:** Java, C, C++, Python, HTML5, MySQL 
+* Tools & Frameworks:** Canva, Figma, Illustrations
+* Operating Systems:** macOS, Windows 
 
 ---
 
@@ -46,11 +47,11 @@
 *(Remember to create and populate these individual repositories with your code and detailed READMEs! The links will work once you do.)*
 
 * **[Recipe Finder Web App](https://recipe-finder-six-murex.vercel.app/)** 
-    * [cite_start]Built a responsive recipe search app using ReactJS, Redux, and Gemini API with localStorage support. 
-* **[Visual Narrative Synthesis with Enhanced CNN Architecture and Attention Mechanism](https://github.com/tushit24/visual-narrative-synthesis)** [cite: 17]
+    * Built a responsive recipe search app using ReactJS, Redux, and Gemini API with localStorage support. 
+* **[Visual Narrative Synthesis with Enhanced CNN Architecture and Attention Mechanism](https://github.com/tushit24/visual-narrative-synthesis)** 
     * A deep learning project exploring visual narrative synthesis using enhanced CNN architecture and attention mechanisms. 
-* [cite_start]**[E-Summit25 Website Design & Development](https://www.ecellvitbhopal.in/esummit2025)** [cite: 15]
-    * [cite_start]Played a key role in designing the E-Summit25 website, ensuring a seamless user experience and modern aesthetics. 
+* **[E-Summit25 Website Design & Development](https://www.ecellvitbhopal.in/esummit2025)** 
+    * Played a key role in designing the E-Summit25 website, ensuring a seamless user experience and modern aesthetics. 
 * **[The Geostrata Research & Design Contributions](https://docs.google.com/document/d/1Hx_r-wy_uvmYzOjN6buPhu9TLsQgyYdEwe2tiEqn4Cg/edit?tab=t.0)** 
     * Conducted research on global international relations, contributing to articles and content development. 
     * Designed content related to international relations and geopolitical issues. 
