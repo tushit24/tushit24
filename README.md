@@ -71,13 +71,11 @@
 
 ---
 
-### 💡 Key Insight
+### 💬 Random Dev Quote
 
-<div style="background-color: #282a36; padding: 15px; border-radius: 8px; margin: 10px 0;">
-  <h2 style="color: #F8F8F2; font-style: italic; font-size: 1.1em; text-align: left; margin: 0;">
-    Everything is theoretically until it is done
-  </h2>
-</div>
+<p>
+  <img src="https://camo.githubusercontent.com/5b5c039e0e17338e87aa9eaf0026a06f8b9774c8d752415a92e7ba581157abb8/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d7261646963616c" alt="Random Dev Quote" />
+</p>
 
 ---
 
