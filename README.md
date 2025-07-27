@@ -1,16 +1,75 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/174953183?s=400&v=4" alt="Tushit Tiwari Profile Picture" width="150" style="border-radius: 50%;">
+</p>
 
-<!--
-**tushit24/tushit24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there! I'm Tushit Tiwari 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  A highly motivated B.Tech. [cite_start]Computer Science student with a strong academic record (8.0 GPA) and practical experience in research, design, and SEO optimization. [cite: 5, 8, 9, 11] [cite_start]Proficient in programming languages, design tools, and skilled in creating user-friendly interfaces and compelling visual content. [cite: 11, 27]
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🙋‍♂️ About Me:
+
+* 🎓 I'm a B.Tech. [cite_start]Computer Science student at Vellore Institute of Technology (VIT), India. [cite: 4, 5]
+* [cite_start]💡 I'm interested in Deep Learning, Computer Architecture, and UI/UX Design. [cite: 6, 11]
+* 🚀 Currently exploring advanced AI/ML techniques and modern web frameworks.
+* 🤝 Looking to collaborate on exciting projects related to AI, Web Development, and Design.
+* [cite_start]📫 How to reach me: rishitiwariofficial@gmail.com [cite: 2]
+
+---
+
+### 🛠️ Tech Stack:
+
+* [cite_start]**Programming Languages:** Java, C, C++, Python, HTML5, MySQL [cite: 27]
+* [cite_start]**Tools & Frameworks:** Canva, Figma, Illustrations [cite: 27]
+* [cite_start]**Operating Systems:** macOS, Windows [cite: 27]
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tushit24&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="Tushit's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushit24&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 📈 Most Used Languages:
+
+*(This section will automatically populate based on your public repositories. You don't need to manually add languages here, the GitHub Stats widget handles it. However, if you want a custom list, you can add it, but it might not auto-update like the widget.)*
+
+---
+
+### 🚀 Projects & Contributions:
+
+*(Remember to create and populate these individual repositories with your code and detailed READMEs! The links will work once you do.)*
+
+* [cite_start]**[Recipe Finder Web App](https://recipe-finder-six-murex.vercel.app/)** [cite: 18]
+    * [cite_start]Built a responsive recipe search app using ReactJS, Redux, and Gemini API with localStorage support. [cite: 18]
+* [cite_start]**[Visual Narrative Synthesis with Enhanced CNN Architecture and Attention Mechanism](https://github.com/tushit24/visual-narrative-synthesis)** [cite: 17]
+    * [cite_start]A deep learning project exploring visual narrative synthesis using enhanced CNN architecture and attention mechanisms. [cite: 17]
+* [cite_start]**[E-Summit25 Website Design & Development](https://www.ecellvitbhopal.in/esummit2025)** [cite: 15]
+    * [cite_start]Played a key role in designing the E-Summit25 website, ensuring a seamless user experience and modern aesthetics. [cite: 15]
+* [cite_start]**[The Geostrata Research & Design Contributions](https://docs.google.com/document/d/1Hx_r-wy_uvmYzOjN6buPhu9TLsQgyYdEwe2tiEqn4Cg/edit?tab=t.0)** [cite: 8]
+    * [cite_start]Conducted research on global international relations, contributing to articles and content development. [cite: 8]
+    * [cite_start]Designed content related to international relations and geopolitical issues. [cite: 8]
+    * [cite_start]Spearheaded the development and implementation of an SEO strategy for The Geostrata’s website. [cite: 9]
+
+---
+
+### 🏆 Honors & Certifications
+
+* [cite_start]**Letter of Recommendation**, Defense Minister of India - for top 3% academic performance nationally. [cite: 24]
+* **Wipro Earthian Award** | [cite_start]Biodiversity and Sustainability - Recognized for innovative contributions towards biodiversity and sustainability efforts. [cite: 25]
+* [cite_start]**Industrial IoT Markets and Security** from University of Colorado issued by Coursera. [cite: 21]
+* [cite_start]**Deep Learning** - IIT Ropar issued by NPTEL. [cite: 22]
+* * [cite_start]**MERN Full Stack Certification** - issued by ETHNUS. [cite: 22]
+
+---
+
+### 🌐 Let's Connect!
+
+* [cite_start]**LinkedIn**: [https://www.linkedin.com/in/tushit-tiwari-97431928a/] (e.g., `https://www.linkedin.com/in/tushit-tiwari-your-profile-id/`) [cite: 2]
+* [cite_start]**Email**: rishitiwariofficial@gmail.com [cite: 2]
+* Looking for new opportunities to learn and grow!
