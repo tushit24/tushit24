@@ -1,4 +1,5 @@
-<h1>Hi there! I'm Tushit Tiwari 👋</h1>
+<h1>Hi there! I'm Tushit Tiwari <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Waving hand" width="30"/></h1>
+<p></h1>
 <p>
   A highly motivated B.Tech. Computer Science student with a strong academic record (8.0 GPA) and practical experience in research, design, and SEO optimization. Proficient in programming languages, design tools, and skilled in creating user-friendly interfaces and compelling visual content.
 </p>
